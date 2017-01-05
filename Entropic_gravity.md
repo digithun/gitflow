@@ -1,0 +1,3 @@
+# Entropic gravity
+
+tropic gravity, also known as emergent gravity, is a theory in modern physics that describes gravity as an entropic force—a force with macro-scale homogeneity but which is subject to quantum-level disorder—and not a fundamental interaction. The theory, based on string theory, black hole physics, and quantum information theory, describes gravity as an emergent phenomenon that springs from the quantum entanglement of small bits of spacetime information. As such, entropic gravity is said to abide by physical systems' tendency to increase in entropy.
