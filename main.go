@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func hello(name string) {
+func helloGolang(name string) {
 	fmt.Printf("Hello %s\n", name)
 }
 
 
 func main() {
-	hello("Golang")
+	helloGolang("Golang")
 }
