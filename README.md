@@ -6,3 +6,8 @@ For git-flow playground
 ```shell
 brew install git-flow
 ```
+
+## Release
+```shell
+. release.sh
+```
