@@ -6,7 +6,7 @@ msg=${msg:-"Release"}
 echo $tag $msg
 
 git-flow release start $tag
-git-flow release finish $tag
+git-flow release finish -m $msg $tag
 git checkout master
 git push
 git checkout develop
