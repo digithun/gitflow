@@ -2,11 +2,6 @@
 
 For git-flow playground
 
-## Install
-```shell
-brew install git-flow
-```
-
 ## Release
 ```shell
 . release.sh
