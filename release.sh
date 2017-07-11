@@ -3,7 +3,6 @@ msg=$2
 
 tag=${tag:-$(date +%s)}
 msg=${msg:-"Release"}
-echo $tag $msg
 
 git-flow release start $tag
 git-flow release finish -m $msg $tag
