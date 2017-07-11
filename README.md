@@ -2,6 +2,7 @@
 
 For git-flow playground
 
-
-Edit something to process
-
+## Install
+```shell
+brew install git-flow
+```
