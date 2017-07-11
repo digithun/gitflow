@@ -10,8 +10,7 @@ echo $tag > ./msg.tmp
 git checkout develop
 git push
 git flow release start $tag
-git flow release finish $tag -f ./msg.tmp
-rm -f ./msg.tmp
+git flow release finish -m $tag $tag
 git checkout master
 git push
 git checkout develop
