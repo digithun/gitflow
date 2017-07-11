@@ -1,4 +1,5 @@
-tag=${$1:-$(date +%s)}
+tag=$1
+tag=${tag:-$(date +%s)}
 echo $tag > ./msg.tmp
 
 git checkout develop
