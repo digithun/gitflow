@@ -6,7 +6,7 @@ git checkout develop
 git push
 git flow release start $tag
 git flow release finish -f ./msg.tmp $tag
-#rm -f ./msg.tmp
+rm -f ./msg.tmp
 git checkout master
 git push
 git checkout develop
