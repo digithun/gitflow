@@ -1,5 +1,5 @@
 # Ensure git flow exist
-command -v git-flow >/dev/null 2>&1 || brew install git-flow-avh
+command -v git-flow >/dev/null 2>&1 || brew install git-flow
 
 # Tag me
 tag=$1
